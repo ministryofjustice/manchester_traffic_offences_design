@@ -1,0 +1,704 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:700px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:1020px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  color:#999999;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:1020px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:502px;
+  width:696px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:280px;
+  height:60px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:280px;
+  height:60px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:276px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:440px;
+  height:60px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:440px;
+  height:60px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:436px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:20px;
+  top:80px;
+  width:660px;
+  height:710px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  color:#999999;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:660px;
+  height:710px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:347px;
+  width:656px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u8 {
+  position:absolute;
+  left:50px;
+  top:100px;
+  width:590px;
+  height:42px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  font-size:34px;
+  text-align:left;
+  line-height:42px;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:590px;
+  height:42px;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:590px;
+  word-wrap:break-word;
+}
+#u10 {
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:660px;
+  height:60px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+}
+#u10_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:660px;
+  height:60px;
+}
+#u11 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:656px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12 {
+  position:absolute;
+  left:96px;
+  top:36px;
+  width:124px;
+  height:33px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  font-size:28px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u12_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:124px;
+  height:33px;
+}
+#u13 {
+  position:absolute;
+  left:6px;
+  top:-36px;
+  width:116px;
+  word-wrap:break-word;
+}
+#u14 {
+  position:absolute;
+  left:50px;
+  top:32px;
+  width:46px;
+  height:40px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+}
+#u14_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:46px;
+  height:40px;
+}
+#u15 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:42px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u16 {
+  position:absolute;
+  left:50px;
+  top:319px;
+  width:590px;
+  height:310px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:590px;
+  height:310px;
+}
+#u17 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:590px;
+  word-wrap:break-word;
+}
+#u18 {
+  position:absolute;
+  left:50px;
+  top:839px;
+  width:550px;
+  height:150px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+}
+#u18_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:550px;
+  height:150px;
+}
+#u19 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:550px;
+  word-wrap:break-word;
+}
+#u20 {
+  position:absolute;
+  left:50px;
+  top:695px;
+  width:590px;
+  height:50px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:590px;
+  height:50px;
+}
+#u21 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:590px;
+  word-wrap:break-word;
+}
+#u22 {
+  position:absolute;
+  left:50px;
+  top:211px;
+  width:610px;
+  height:108px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+}
+#u22_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:610px;
+  height:108px;
+}
+#u23 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:610px;
+  word-wrap:break-word;
+}
+#u24 {
+  position:absolute;
+  left:50px;
+  top:178px;
+  width:375px;
+  height:33px;
+  font-family:'GDSTransportWebsite', 'GDS Transport Website Light', 'GDS Transport Website';
+  font-weight:200;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u24_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:33px;
+}
+#u25 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  word-wrap:break-word;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:700px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+}
+#u2.a {
+}
+#u4.a {
+}
+#u6.a {
+}
+#u8.a {
+}
+#u10.a {
+}
+#u12.a {
+}
+#u14.a {
+}
+#u16.a {
+  height:313px;
+}
+#u16_img.a {
+  height:313px;
+}
+#u17.a {
+}
+#u18.a {
+}
+#u20.a {
+}
+#u22.a {
+}
+#u24.a {
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:700px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.b {
+}
+#u2.b {
+}
+#u4.b {
+}
+#u6.b {
+}
+#u8.b {
+}
+#u10.b {
+}
+#u12.b {
+}
+#u14.b {
+}
+#u16.b {
+  height:313px;
+}
+#u16_img.b {
+  height:313px;
+}
+#u17.b {
+}
+#u18.b {
+}
+#u20.b {
+}
+#u22.b {
+  height:67px;
+}
+#u22_img.b {
+  height:67px;
+}
+#u23.b {
+}
+#u24.b {
+}
+body.c {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:480px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.c {
+  width:480px;
+  height:1200px;
+}
+#u0_img.c {
+  width:480px;
+  height:1200px;
+}
+#u1.c {
+  top:592px;
+  width:476px;
+}
+#u2.c {
+}
+#u4.c {
+}
+#u4_img.c {
+}
+#u5.c {
+}
+#u6.c {
+  width:440px;
+  height:910px;
+}
+#u6_img.c {
+  width:440px;
+  height:910px;
+}
+#u7.c {
+  top:447px;
+  width:436px;
+}
+#u8.c {
+  width:370px;
+  height:84px;
+}
+#u8_img.c {
+  width:370px;
+  height:84px;
+}
+#u9.c {
+  width:370px;
+}
+#u10.c {
+}
+#u10_img.c {
+}
+#u11.c {
+}
+#u12.c {
+  left:86px;
+}
+#u12_img.c {
+}
+#u13.c {
+}
+#u14.c {
+  left:40px;
+}
+#u14_img.c {
+}
+#u15.c {
+}
+#u16.c {
+  top:460px;
+  width:360px;
+  height:360px;
+}
+#u16_img.c {
+  width:360px;
+  height:360px;
+}
+#u17.c {
+  width:360px;
+}
+#u18.c {
+  top:1026px;
+  width:419px;
+  height:140px;
+}
+#u18_img.c {
+  width:419px;
+  height:140px;
+}
+#u19.c {
+  width:419px;
+}
+#u20.c {
+  top:861px;
+  width:390px;
+  height:99px;
+}
+#u20_img.c {
+  width:390px;
+  height:99px;
+}
+#u21.c {
+  width:390px;
+}
+#u22.c {
+  top:263px;
+  width:375px;
+  height:122px;
+}
+#u22_img.c {
+  width:375px;
+  height:122px;
+}
+#u23.c {
+  width:375px;
+}
+#u24.c {
+  top:220px;
+}
+#u24_img.c {
+}
+#u25.c {
+}
+body.d {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.d {
+  top:-10px;
+  width:320px;
+  height:1510px;
+}
+#u0_img.d {
+  width:320px;
+  height:1510px;
+}
+#u1.d {
+  top:747px;
+  width:316px;
+}
+#u2.d {
+}
+#u2_img.d {
+}
+#u3.d {
+}
+#u4.d {
+}
+#u4_img.d {
+}
+#u5.d {
+}
+#u6.d {
+  width:280px;
+  height:1140px;
+}
+#u6_img.d {
+  width:280px;
+  height:1140px;
+}
+#u7.d {
+  top:562px;
+  width:276px;
+}
+#u8.d {
+  width:220px;
+  height:168px;
+}
+#u8_img.d {
+  width:220px;
+  height:168px;
+}
+#u9.d {
+  width:220px;
+}
+#u10.d {
+}
+#u10_img.d {
+}
+#u11.d {
+}
+#u12.d {
+  left:76px;
+}
+#u12_img.d {
+}
+#u13.d {
+}
+#u14.d {
+  left:30px;
+}
+#u14_img.d {
+}
+#u15.d {
+}
+#u16.d {
+  top:570px;
+  width:240px;
+  height:430px;
+}
+#u16_img.d {
+  width:240px;
+  height:430px;
+}
+#u17.d {
+  width:240px;
+}
+#u18.d {
+  top:1252px;
+  width:220px;
+  height:220px;
+}
+#u18_img.d {
+  width:220px;
+  height:220px;
+}
+#u19.d {
+  width:220px;
+}
+#u20.d {
+  top:1046px;
+  width:220px;
+  height:150px;
+}
+#u20_img.d {
+  width:220px;
+  height:150px;
+}
+#u21.d {
+  width:220px;
+}
+#u22.d {
+  top:339px;
+  width:230px;
+  height:159px;
+}
+#u22_img.d {
+  width:230px;
+  height:159px;
+}
+#u23.d {
+  width:230px;
+}
+#u24.d {
+  top:295px;
+  width:230px;
+}
+#u24_img.d {
+  width:230px;
+}
+#u25.d {
+  width:230px;
+}
